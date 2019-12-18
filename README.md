@@ -1,2 +1,2 @@
-#### Rnadom JS excercises 
+#### Random JS excercises 
 
